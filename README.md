@@ -1,4 +1,4 @@
-![Logo Trademark](./assets/trademark.png)
+![Logo Trademark](./assets/trademark.jpeg)
 
 # Hagezh
 
