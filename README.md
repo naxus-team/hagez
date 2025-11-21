@@ -1,8 +1,8 @@
 ![Logo Trademark](./assets/hagzy_trademark.png)
 
-# Hagezh
+# Hagzy
 
-**Hagezh** is a universal booking platform that enables users to reserve any type of service — from sports facilities and cinemas to clinics and studios — through a single, integrated application.
+**Hagzy** is a universal booking platform that enables users to reserve any type of service — from sports facilities and cinemas to clinics and studios — through a single, integrated application.
 
 ---
 
@@ -12,10 +12,10 @@ To establish the world’s most unified booking ecosystem — a digital infrastr
 ---
 
 ## Overview  
-Hagezh redefines the booking experience by integrating real-time data, location awareness, and intuitive design.  
+Hagzy redefines the booking experience by integrating real-time data, location awareness, and intuitive design.  
 Users can explore available services through an **interactive map**, check availability instantly, compare providers, and complete reservations with minimal effort.  
 
-From stadiums to healthcare centers, Hagezh connects individuals and businesses in a single digital space optimized for efficiency and accessibility.
+From stadiums to healthcare centers, Hagzy connects individuals and businesses in a single digital space optimized for efficiency and accessibility.
 
 ---
 
@@ -43,7 +43,7 @@ Schedule medical appointments, laboratory tests, or therapy sessions directly th
 Reserve professional studios or creative environments managed by verified hosts.  
 
 ### Lifestyle & General Services  
-From restaurants and salons to coworking spaces — Hagezh adapts to every booking scenario.  
+From restaurants and salons to coworking spaces — Hagzy adapts to every booking scenario.  
 
 ---
 
@@ -61,5 +61,5 @@ To simplify and unify the global booking process by connecting users and service
 
 ---
 
-**Hagezh** — The future of booking.  
+**Hagzy** — The future of booking.  
 One map. One platform. Infinite possibilities.
