@@ -2,7 +2,7 @@
     <!-- Base application theme. -->
 
 
-    <style name="Theme.Hagez.Splash" parent="Theme.AppCompat.NoActionBar">
+    <style name="Theme.Hagzy.Splash" parent="Theme.AppCompat.NoActionBar">
         <!-- خلفية سوداء -->
         <item name="android:windowBackground">#000000</item>
 
@@ -21,7 +21,7 @@
     </style>
 
 
-    <style name="Theme.Hagez" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+    <style name="Theme.Hagzy" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/Accent</item>
         <item name="colorPrimaryVariant">@color/AccentVariant</item>
@@ -35,12 +35,12 @@
         <!-- Customize your theme here. -->
     </style>
 
-    <style name="Theme.Hagez.NoActionBar">
+    <style name="Theme.Hagzy.NoActionBar">
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
     </style>
 
-    <style name="Theme.Hagez.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="Theme.Hagzy.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
 
-    <style name="Theme.Hagez.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+    <style name="Theme.Hagzy.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 </resources>

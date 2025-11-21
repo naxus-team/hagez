@@ -1,13 +1,5 @@
 <resources>
-    <string name="app_name">Hagez</string>
-    <string name="navigation_drawer_open">Open navigation drawer</string>
-    <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="nav_header_title">حجز</string>
-    <string name="nav_header_subtitle">support@hagez.online</string>
-    <string name="nav_header_desc">Navigation header</string>
-    <string name="action_settings">Settings</string>
+    <string name="app_name">Hagzy</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiYWhtZWQ0NTIxNSIsImEiOiJjbWhxbnYweDcwNTJ1MmxyOHl1YmJ0aHZvIn0.Y1Zcrzz_40EWMH8t45Pbyg</string>
 
-    <string name="menu_home">Home</string>
-    <string name="menu_gallery">Gallery</string>
-    <string name="menu_slideshow">Slideshow</string>
 </resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.hagzy">
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-feature android:name="android.hardware.camera" android:required="false" />
+
+    <application
+        android:extractNativeLibs="false"
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Hagez"
+        tools:targetApi="34">
+        <profileable android:shell="true" tools:targetApi="31" />
+        <meta-data
+            android:name="com.mapbox.access_token"
+            android:value="pk.eyJ1IjoiYWhtZWQ0NTIxNSIsImEiOiJjbWhxbnYweDcwNTJ1MmxyOHl1YmJ0aHZvIn0.Y1Zcrzz_40EWMH8t45Pbyg" />
+        <activity
+            android:name=".SplashActivity"
+            android:exported="true"
+            android:theme="@style/Theme.Hagez.Splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".RootActivity"
+            android:exported="false"
+            android:theme="@style/Theme.Hagez.NoActionBar" />
+
+        <!-- RootActivity هي أول شاشة تفتح التطبيق -->
+    </application>
+
+</manifest>

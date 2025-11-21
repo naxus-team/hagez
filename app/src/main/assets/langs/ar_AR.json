@@ -1,0 +1,24 @@
+{
+  "bookings": "الحجوزات",
+  "search_hint": "ابحث عن ملعب أو مطعم...",
+  "unknown": "صفحة غير معروفة",
+  "common": {
+    "certified": "معتمد"
+  },
+  "action": {
+    "details": "تفاصيل"
+  },
+  "field": {
+    "account": "الحساب",
+    "privacy": "الخصوصية",
+    "language": "اللغة",
+    "logout": "تسجيل الخروج",
+    "booking": "الحجز"
+  },
+  "login": {
+    "title": "تسجيل الدخول"
+  },
+  "settings": {
+    "title": "الإعدادات"
+  }
+}
